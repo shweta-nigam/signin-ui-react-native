@@ -20,7 +20,7 @@ A simple and clean Sign In screen built using React Native and Expo.
 
 ## Project Preview
 
-Add your project screenshot here.
+(Facing some problem showing my images even though path is correct)
 
 ```md
 ![Project Preview](./assets/project-img.png)
